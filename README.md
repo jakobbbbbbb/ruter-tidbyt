@@ -4,9 +4,8 @@ Live Norwegian public-transport departures for a 64x32 Tidbyt or Tronbyt.
 Search stations throughout Norway, with all transport modes supported by Entur.
 The default is Colletts gate toward Sentrum in Oslo.
 
-The living-room display uses large countdowns, full-width destinations, and calm
-departure pages. A compact departure board is also available. Service advisory
-pages and warning indicators are intentionally omitted.
+The display uses large countdowns, full-width destinations, and calm
+departure pages. A compact departure board is also available.
 
 ![Departure display](apps/collettsbus/screenshots/normal.webp)
 
